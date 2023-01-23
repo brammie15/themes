@@ -1809,7 +1809,7 @@ svg[name="Activity"] {
 
 /* VIII. Menus */
   /* A. Server Menu */
-#app-mount .menu-1QACrS {
+/* #app-mount .menu-1QACrS {
   background: var(--quatro)  var(--stars) top left;
   background-attachment: fixed;
   border-radius: 0;
@@ -1849,10 +1849,10 @@ svg[name="Activity"] {
   border: 1px solid var(--blurple);
   border-radius: 0;
   animation: popoutanim-min 300ms cubic-bezier(.4, 0, 0, 1);
-}
+} */
 
   /* B. User Status */
-  .layer-2aCOJ3[style*="; bottom: 5"][id*="popout_"] {
+  /* .layer-2aCOJ3[style*="; bottom: 5"][id*="popout_"] {
   height: fit-content !important;
   width: fit-content !important;
   animation: popoutanim-status 300ms cubic-bezier(.4, 0, 0, 1);
@@ -1971,10 +1971,10 @@ svg[name="Activity"] {
 
 #status-picker .item-1OdjEX:not(:nth-child(7)):hover {
   transform: scale(1.3);
-}
+} */
 
   /* C. Context Menu */
-#app-mount .contextMenu-HLZMGh,
+/* #app-mount .contextMenu-HLZMGh,
 #app-mount .container-3cGP6G {
   background: var(--quatro)  var(--stars) top left;
   background-attachment: fixed;
@@ -1992,7 +1992,7 @@ svg[name="Activity"] {
 }
 
   /* D. Dropdown Menus */
-#app-mount .select-1YfRS9 .Select-menu-outer,
+/* #app-mount .select-1YfRS9 .Select-menu-outer,
 #app-mount .popout-2sKjHu,
 #app-mount .popoutList-10IFAa,
 #app-mount .css-n57xjs-menu,
@@ -2028,12 +2028,12 @@ svg[name="Activity"] {
 .option-2eIyOn:focus, 
 .option-2eIyOn:hover {
   background: var(--sheer);
-}
+} */ */
  
 /* IX. Popouts */
 
   /* A. User Popout */
-#app-mount .headerNormal-1mX3KY,
+/* #app-mount .headerNormal-1mX3KY,
 #app-mount .body-2wLx-E, 
 #app-mount .footer-1fjuF6,
 #app-mount .headerTop-2cWpdB,
@@ -2158,10 +2158,10 @@ svg[name="Activity"] {
 
 #app-mount .headerStreaming-2FjmGz {
   background: linear-gradient(var(--streaming-sheer), transparent 80%), var(--stars) top left fixed;
-}
+} */
 
   /* B. Message Popout */
-.layer-2aCOJ3[id*="popout"][style*="absolute; right:"] {
+/* .layer-2aCOJ3[id*="popout"][style*="absolute; right:"] {
   transform-origin: 50% -10%;
   animation: popoutanim 300ms cubic-bezier(.4, 0, 0, 1), opacity 100ms ease 100ms backwards;
 }
@@ -2225,7 +2225,7 @@ svg[name="Activity"] {
 
 #app-mount .jumpButton-1ZwI_j {
   background-color: var(--veil);
-}
+} */
 
   /* C. Search Popout & Results */
 #app-mount .container-2McqkF,
@@ -2375,7 +2375,7 @@ svg[name="Activity"] {
 }
 
   /* E. Tooltips & Notices */
-.tooltip-14MtrL {
+/* .tooltip-14MtrL {
   border-radius: 5px !important;
 }
 
@@ -2460,7 +2460,7 @@ svg[name="Activity"] {
 .channelNotices-41mJbj .channelNotice-tO6Tus.guildMFAWarning-3GEzs8 {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--stars) top left fixed;
   border-radius: 10px 10px 0 0;
-}
+} */
 
 /* tropix's fade in tooltip anim */
     
@@ -2481,7 +2481,7 @@ svg[name="Activity"] {
 }
 
   /* F. Autocomplete & Everyone Popout */
-#app-mount .autocomplete-3NRXG8,
+/* #app-mount .autocomplete-3NRXG8,
 #app-mount .everyonePopout-nEbJY3 {
   background: linear-gradient(transparent, var(--blurple-sheer) 80%),var(--uno) var(--stars) top left !important;
   background-attachment: fixed;
@@ -2499,7 +2499,7 @@ svg[name="Activity"] {
 #app-mount .selectorSelected-1_M1WV {
   background: var(--veil) var(--stars) top left !important;
   background-attachment: fixed;
-}
+} */
 
   /* G. Gift Nitro and Gif Picker */
 #app-mount .option-1l2vXE,
